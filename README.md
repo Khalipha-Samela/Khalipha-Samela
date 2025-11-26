@@ -61,14 +61,3 @@ I focus on polished, usable apps:
 
 ---
 
-## 💬 Contact & Collaboration
-If you want to collaborate or chat about a project, feel free to reach out:
-- **LinkedIn:** https://www.linkedin.com/in/khalipha-samela  
-- **GitHub:** https://github.com/Khalipha-Samela
-
----
-
-<div align="center">
-
-*Clean design. Thoughtful code. Calm interfaces.*  
-</div>
