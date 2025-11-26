@@ -5,7 +5,6 @@
 </div>
 
 # 👋 Hi — I’m **Khalipha Samela**
-*Minimal • Clean • Professional*  
 I build clean, human-centered digital experiences.<br>
 Web Apps • APIs • Databases • AI-Enhanced Tools
 
@@ -47,17 +46,6 @@ I focus on polished, usable apps:
 
 **Stack:** HTML • CSS • JS • PHP • MySQL • AI API  
 **Repo:** *(add link to your project repo here)*
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-
-![Khalipha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalipha-Samela&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalipha-Samela&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
