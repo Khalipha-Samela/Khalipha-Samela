@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- banner.svg — Minimal Clean Pro Edition (Full Stack Developer Version)
+     Save this file to /assets/banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- soft gradient background -->
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#071029"/>
+    </linearGradient>
+
+    <!-- accent gradient -->
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#fbcfe8"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- clip path for wave -->
+    <clipPath id="waveClip">
+      <path d="M0,140 C200,100 350,220 600,180 C850,140 1000,200 1200,150 L1200,280 L0,280 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- soft grid pattern -->
+  <g opacity="0.05" stroke="#ffffff" stroke-width="1">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200" />
+    <path d="M100 0 V280 M300 0 V280 M500 0 V280 M700 0 V280 M900 0 V280 M1100 0 V280" />
+  </g>
+
+  <!-- glowing gradient blobs -->
+  <g filter="url(#softGlow)" opacity="0.16">
+    <ellipse cx="160" cy="70" rx="120" ry="60" fill="url(#accent)">
+      <animate attributeName="cx" values="160;220;160" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="70;50;70" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="rx" values="120;140;120" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="980" cy="90" rx="160" ry="70" fill="url(#accent)">
+      <animate attributeName="cx" values="980;920;980" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;110;90" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- main title (UPDATED) -->
+  <g fill="#ffffff" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="600" text-anchor="start">
+    <text x="60" y="100" font-size="34">Khalipha Samela</text>
+    <text x="60" y="140" font-size="18" fill="#9fb2c8" font-weight="400">Full Stack Developer</text>
+  </g>
+
+  <!-- animated wave -->
+  <g clip-path="url(#waveClip)" transform="translate(0,0)">
+    <rect width="1200" height="280" fill="url(#accent)" opacity="0.06"></rect>
+    <g transform="translate(0,20)" opacity="0.12">
+      <path d="M0,160 C200,120 350,240 600,200 C850,160 1000,220 1200,170 L1200,300 L0,300 Z" fill="#ffffff">
+        <animate attributeName="d"
+                 dur="9s"
+                 repeatCount="indefinite"
+                 values="
+                   M0,160 C200,120 350,240 600,200 C850,160 1000,220 1200,170 L1200,300 L0,300 Z;
+                   M0,150 C170,130 380,210 600,170 C820,130 1030,240 1200,180 L1200,300 L0,300 Z;
+                   M0,160 C200,120 350,240 600,200 C850,160 1000,220 1200,170 L1200,300 L0,300 Z" />
+      </path>
+    </g>
+  </g>
+
+  <!-- divider line -->
+  <line x1="60" y1="170" x2="1140" y2="170" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1" />
+
+  <!-- subtle right-side subtitle -->
+  <g fill="#cfe6ff" font-family="Inter, Helvetica, Arial, sans-serif" text-anchor="end">
+    <text x="1140" y="120" font-size="12">Mind Guard — AI Therapeutic Journal</text>
+  </g>
+
+</svg>
