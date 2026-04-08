@@ -1,51 +1,99 @@
-<div align="center">
+# Hi, I'm Khalipha Samela 👋
 
-<img src="./assets/banner.svg" alt="Khalipha Samela - banner" width="100%" style="max-width:900px; border-radius:12px;"/>
+🚀 Full-Stack Developer | Problem Solver | Builder  
 
-</div>
-
-# 👋 Hi — I’m **Khalipha Samela**
-I build clean, human-centered digital experiences.<br>
-Web Apps • APIs • Databases • AI-Enhanced Tools
+I design and build scalable applications that solve real-world problems — from full-stack platforms to desktop tools.
 
 ---
 
-## 🎯 Quick Summary
-- 🔭 **Current Project:** *Mind Guard* — a therapeutic AI journal app.  
-- 🛠️ **Core stack:** HTML • CSS • JavaScript • PHP • MySQL • Java  
-- ⚛️ **Learning:** React  
-- 📫 **Connect:** [GitHub](https://github.com/Khalipha-Samela) • [LinkedIn](https://www.linkedin.com/in/khalipha-samela)
+## 💻 Tech Stack
+
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express
+- PHP
+
+**Database & Tools**
+- PostgreSQL
+- Supabase
+- MySQL
+- Git & GitHub
+
+**Other**
+- Python (Desktop Apps)
+- REST APIs
+- JWT Authentication
 
 ---
 
-## 🧩 What I build
-I focus on polished, usable apps:
-- Thoughtful UI/UX with accessible design patterns  
-- Reliable server-side logic and clean database schemas  
-- Small, elegant experiments combining AI and human-centered flows
+## 🚀 Featured Projects
+
+### 🔹 TrackMyJobs
+A full-stack job tracking platform with authentication, CV uploads, and analytics.
+
+- React, Node.js, Express, Supabase, PostgreSQL  
+- JWT authentication & protected routes  
+- Real-time dashboard analytics  
+
+🔗 Live: https://track-myjobs.netlify.app  
+💻 Code: https://github.com/Khalipha-Samela/TrackMyJobs  
 
 ---
 
-## 🛠 Tech Stack
+### 🔹 FileFlow
+A desktop application that automates file organization with a modern UI.
 
-<div align="center">
+- Python, CustomTkinter  
+- Real-time stats dashboard  
+- File automation & duplicate handling  
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-</div>
+💻 Code: https://github.com/Khalipha-Samela/FileFlow  
 
 ---
 
-## 🚀 Featured Project — Mind Guard
-**Mind Guard** — A therapeutic AI journal app that helps users reflect and receive gentle, evidence-informed prompts and insights.
+### 🔹 MindGuard Journal
+A privacy-focused journaling platform with emotional pattern analysis.
 
-**Stack:** HTML • CSS • JS • PHP • MySQL • AI API  
-**Repo:** *(add link to your project repo here)*
+- Supabase, PostgreSQL  
+- Secure user data with RLS  
+- AI-inspired insights system  
+
+🔗 Live: https://mindguard-journal.netlify.app/login.html  
+💻 Code: https://github.com/Khalipha-Samela/MindGuard-Journal  
 
 ---
 
+## 📈 What I Focus On
+
+- Building real-world applications (not tutorials)  
+- Writing clean, scalable code  
+- Designing intuitive user experiences  
+- Shipping fully deployed projects  
+
+---
+
+## 🌍 Currently
+
+- 🔍 Looking for Junior / Entry-Level Developer roles  
+- 🌱 Improving my full-stack and system design skills  
+- 🚀 Building projects that solve real problems  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://khalipha-portfolio.vercel.app/
+- 💼 LinkedIn: www.linkedin.com/in/khalipha-samela
+- 💻 GitHub: https://github.com/Khalipha-Samela
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning everyday problems into software solutions.
