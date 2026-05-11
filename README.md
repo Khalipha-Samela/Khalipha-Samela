@@ -1,99 +1,68 @@
-# Hi, I'm Khalipha Samela 👋
+<div align="center">
 
-🚀 Full-Stack Developer | Problem Solver | Builder  
+# Khalipha Samela
 
-I design and build scalable applications that solve real-world problems — from full-stack platforms to desktop tools.
+**Full-Stack Web Developer**
 
----
+*Building functional, secure, and user-focused web applications.*
 
-## 💻 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalipha--samela-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalipha-samela)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khalipha--portfolio.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://khalipha-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Khalipha--Samela-181717?style=flat-square&logo=github)](https://github.com/Khalipha-Samela)
 
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- PHP
-
-**Database & Tools**
-- PostgreSQL
-- Supabase
-- MySQL
-- Git & GitHub
-
-**Other**
-- Python (Desktop Apps)
-- REST APIs
-- JWT Authentication
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 🔹 TrackMyJobs
-A full-stack job tracking platform with authentication, CV uploads, and analytics.
+I'm a self-driven full-stack developer who builds real-world applications — not tutorials. I care about writing clean code, designing intuitive experiences, and shipping fully deployed projects that solve actual problems.
 
-- React, Node.js, Express, Supabase, PostgreSQL  
-- JWT authentication & protected routes  
-- Real-time dashboard analytics  
-
-🔗 Live: https://track-myjobs.netlify.app  
-💻 Code: https://github.com/Khalipha-Samela/TrackMyJobs  
+Currently open to **junior / entry-level developer roles**.
 
 ---
 
-### 🔹 FileFlow
-A desktop application that automates file organization with a modern UI.
+## Tech Stack
 
-- Python, CustomTkinter  
-- Real-time stats dashboard  
-- File automation & duplicate handling  
-
-💻 Code: https://github.com/Khalipha-Samela/FileFlow  
-
----
-
-### 🔹 MindGuard Journal
-A privacy-focused journaling platform with emotional pattern analysis.
-
-- Supabase, PostgreSQL  
-- Secure user data with RLS  
-- AI-inspired insights system  
-
-🔗 Live: https://mindguard-journal.netlify.app/login.html  
-💻 Code: https://github.com/Khalipha-Samela/MindGuard-Journal  
+| Layer | Tools |
+|---|---|
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express, PHP |
+| **Database** | PostgreSQL, MySQL, Supabase |
+| **Other** | Python, REST APIs, JWT Auth, Git & GitHub |
 
 ---
 
-## 📈 What I Focus On
+## Featured Projects
 
-- Building real-world applications (not tutorials)  
-- Writing clean, scalable code  
-- Designing intuitive user experiences  
-- Shipping fully deployed projects  
-
----
-
-## 🌍 Currently
-
-- 🔍 Looking for Junior / Entry-Level Developer roles  
-- 🌱 Improving my full-stack and system design skills  
-- 🚀 Building projects that solve real problems  
+### [TrackMyJobs](https://github.com/Khalipha-Samela/TrackMyJobs)
+A full-stack job tracking platform with authentication, CV uploads, and a real-time analytics dashboard.  
+`React` `Node.js` `Express` `Supabase` `PostgreSQL` `JWT`  
+→ [Live Demo](https://track-myjobs.netlify.app)
 
 ---
 
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://khalipha-portfolio.vercel.app/
-- 💼 LinkedIn: www.linkedin.com/in/khalipha-samela
-- 💻 GitHub: https://github.com/Khalipha-Samela
+### [MindGuard Journal](https://github.com/Khalipha-Samela/MindGuard-Journal)
+A privacy-focused journaling app with emotional pattern analysis and grounding techniques — all stored securely.  
+`JavaScript` `Supabase` `PostgreSQL`  
+→ [Live Demo](https://mindguard-journal.netlify.app/login.html)
 
 ---
 
-## ⚡ Fun Fact
+### [FileFlow](https://github.com/Khalipha-Samela/FileFlow)
+A desktop app that automates file organisation with a modern UI, real-time stats, and duplicate handling.  
+`Python` `CustomTkinter`
 
-I enjoy turning everyday problems into software solutions.
+---
+
+### [Student Management System](https://github.com/Khalipha-Samela/student-management-system)
+A full-stack system for student registration, profile management, and report generation with a Material Design UI.  
+`PHP` `MySQL` `React`
+
+---
+
+## Get in Touch
+
+I'm always open to conversations about dev roles, collaboration, or interesting projects.
+
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/khalipha-samela) or explore my work at [khalipha-portfolio.vercel.app](https://khalipha-portfolio.vercel.app/).
